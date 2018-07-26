@@ -1,4 +1,4 @@
 {
   "welcomeFile": "/webapp/index.html",
-  "sendWelcomeFileRedirect": false
+  "sendWelcomeFileRedirect": true
 }
